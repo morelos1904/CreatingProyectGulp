@@ -1,0 +1,10 @@
+{
+  "name": "Filters",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
